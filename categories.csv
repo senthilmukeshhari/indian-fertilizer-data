@@ -1,0 +1,7 @@
+id,name,image,parent
+1,Seeds,product_and_category_images\Surabhi_Coriander_Seeds-1.png,
+2,Sprayer Spares,product_and_category_images\ASPEE TURRBO TEKK 100 MTR 10 MM YELLOW HOSE-1.png,
+3,Horticultural Crops,product_and_category_images\Aarti F1 Hybrid Ridge Gourd Seeds-3.png,1
+4,Field Crops,product_and_category_images\POLE BEANS NZ-2.png,1
+5,Power Sprayer,product_and_category_images\Aspee-power-sprayer-1.png,2
+6,Battery Sprayer,product_and_category_images\ASPEE SPRAY GUN CODE  SPGCSS (56 CMS)-1.png,2
