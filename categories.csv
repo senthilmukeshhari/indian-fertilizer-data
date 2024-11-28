@@ -1,7 +1,13 @@
-id,name,image,parent
-1,Seeds,product_and_category_images\Surabhi_Coriander_Seeds-1.png,
-2,Sprayer Spares,product_and_category_images\ASPEE TURRBO TEKK 100 MTR 10 MM YELLOW HOSE-1.png,
-3,Horticultural Crops,product_and_category_images\Aarti F1 Hybrid Ridge Gourd Seeds-3.png,1
-4,Field Crops,product_and_category_images\POLE BEANS NZ-2.png,1
-5,Power Sprayer,product_and_category_images\Aspee-power-sprayer-1.png,2
-6,Battery Sprayer,product_and_category_images\ASPEE SPRAY GUN CODE  SPGCSS (56 CMS)-1.png,2
+id,name,image,parent,slug
+1,Seeds,product_and_category_images\Seeds.jpeg,,
+2,Sprayer,product_and_category_images\Sprayers.jpeg,,
+3,Horticultural Crops,product_and_category_images\Horticulture_crosps.png,1,
+4,Field Crops,product_and_category_images\Field_crops.jpg,1,
+5,Power Sprayer,product_and_category_images\Power_Sprayer.jpg,2,
+6,Battery Sprayer,product_and_category_images\Battery Sprayers.jpg,2,
+7,HDPE Bags,product_and_category_images\SPIC_UREA-2.png,,
+8,Fungicides,product_and_category_images\Fungicides.png,,
+9,Plant growth regulator,product_and_category_images\Plant_growth_regulator.png,,
+10,Herbicides,product_and_category_images\Herbicides.png,,
+11,Insecticides,product_and_category_images\Insecticides.png,,
+12,Sprayer Spares,product_and_category_images\Sprayer Spares.jpg,,
